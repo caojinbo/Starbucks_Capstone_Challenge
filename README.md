@@ -24,8 +24,7 @@ In this analysis, we are interested in the following questions:
 1. What are the demographic data of the customers?
 2. How various genders respond to the promotions differently?
 3. What is the best channel to send out promotions?
-4. Of all the different promotional offers, which one is more profitable for Starbucks?
-5. Can we build a model to predict the customers' behavior and send out customized promotional offers to individuals?
+4. Can we build a model to predict the customers' behavior and send out customized promotional offers to individuals?
 
 
 ## File Descriptions <a name="files"></a>
@@ -40,7 +39,7 @@ All the analysis are combined in one single notebook `starbucks_capstone.ipynb`.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](xxx).
+The main findings of the code can be found at the post available [here](https://medium.com/@caojinbo/sending-out-promotional-offers-that-matter-1cd56a6b603a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
